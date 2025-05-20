@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @kirfi02
+- 👋 Hi, I’m @kirfi_AI
+- Student from federal university of kashere,Gombe state.
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning software development 
+- 🌱 I’m currently learning cybersecurity and networking 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
